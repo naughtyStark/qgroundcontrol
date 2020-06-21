@@ -23,3 +23,7 @@ Key Links:
 * [Discussion/Support](https://docs.qgroundcontrol.com/en/Support/Support.html)
 * [Contributing](https://dev.qgroundcontrol.com/en/contribute/)
 * [License](https://github.com/mavlink/qgroundcontrol/blob/master/COPYING.md)
+
+Notes for first timers (or me from the future): 
+Use only and only Qt 5.12.6 from here: https://download.qt.io/archive/qt/5.12/5.12.6/ 
+You need to have NSIS installed for creating the installer!
